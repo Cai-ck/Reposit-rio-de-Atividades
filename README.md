@@ -1,4 +1,4 @@
-# 📚 Atividades de Curso e Estudos Básicos
+# 📚 Atividades do Curso e Estudos Básicos
 
 Este repositório foi criado para centralizar todos os exercícios e atividades práticas realizados durante o meu curso de **Desenvolvimento de Sistemas** no **SENAC-BA**. O objetivo é manter uma rotina de estudos constante e documentar minha evolução técnica desde o básico.
 
